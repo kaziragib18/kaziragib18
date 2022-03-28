@@ -4,7 +4,7 @@
 <p>
 <em>
     I am a fresh graduate from <a href="http://www.northsouth.edu/"> <b>North South University</b>, Dhaka(Bangladesh)</a>. <br> 
-    A budding <b>Software Developer</b> who is passionate about web development, design & human-computer interaction<img src="https://github.com/kaziragib18/Profile-Kaziragib18/blob/main/Developer.gif" width="30px"> Looking to <b>broaden my horizon</b> in the field of technologies. 💻
+    A budding <b>Software Developer</b> who is passionate about web development, Software testing, design & human-computer interaction<img src="https://github.com/kaziragib18/Profile-Kaziragib18/blob/main/Developer.gif" width="30px"> Looking to <b>broaden my horizon</b> in the field of technologies. 💻
   </em>  
 </p>
 <img align="right" alt="GIF" src="https://github.com/kaziragib18/kaziragib18/blob/main/coding-freak.gif" height="260" width="400"/>
@@ -14,7 +14,7 @@
 
 **Something More About Myself:**
  
- - 👨🏽‍💻 I am a Front End | MERN | React.js Developer. <!-- - 👨🏽‍💼 Open Source Enthusiast -->
+ - 👨🏽‍💻 I am interested in Javascript | MERN | React.js | SQA testing <!-- - 👨🏽‍💼 Open Source Enthusiast -->
  - 👯 I’m looking to collaborate on new technological projects.
  - 💬 Ask me about anything, I am happy to help anytime!
  - 📫 Email me at : Kaziragib18@gmail.com
