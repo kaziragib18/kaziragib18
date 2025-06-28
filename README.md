@@ -30,7 +30,6 @@
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/sass-1.svg"></code>
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/javascript.svg"></code>
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/react.svg"></code>
-<code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/nextjs.svg"></code>
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/Node.js.svg"></code>
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/mongodb.svg"></code>
 <code><img height="35" src="https://github.com/kaziragib18/kaziragib18/blob/main/express-109.svg"></code>
