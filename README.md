@@ -3,8 +3,9 @@
 ### <img src="https://github.com/kaziragib18/Profile-Kaziragib18/blob/main/Hi.gif" width="29px"> **Hey Everyone!** &nbsp;<img src="https://github.com/kaziragib18/Profile-Kaziragib18/blob/main/Earth.gif" width="24px">
 <p>
 <em>
-    I am a fresh graduate from <a href="http://www.northsouth.edu/"> <b>North South University</b>, Dhaka(Bangladesh)</a>. <br> 
-    A budding <b>Software Developer</b> who is passionate about web development, Software testing, design & human-computer interaction<img src="https://github.com/kaziragib18/Profile-Kaziragib18/blob/main/Developer.gif" width="30px"> Looking to <b>broaden my horizon</b> in the field of technologies. 💻
+    I'm graduated from <a href="http://www.northsouth.edu/"> <b>North South University</b>, Dhaka(Bangladesh)</a>. <br> 
+       Currently working as a JavaScript developer in a reputed software company in Dhaka(Bangladesh)</a>. <br> 
+    I'm budding <b>Software Developer</b> who is passionate about web development, Software testing, design & human-computer interaction<img src="https://github.com/kaziragib18/Profile-Kaziragib18/blob/main/Developer.gif" width="30px"> Looking to <b>broaden my horizon</b> in the field of technologies. 💻
   </em>  
 </p>
 <img align="right" alt="GIF" src="https://github.com/kaziragib18/kaziragib18/blob/main/coding-freak.gif" height="260" width="400"/>
@@ -29,6 +30,7 @@
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/sass-1.svg"></code>
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/javascript.svg"></code>
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/react.svg"></code>
+<code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/nextjs.svg"></code>
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/Node.js.svg"></code>
 <code><img height="50" src="https://github.com/kaziragib18/kaziragib18/blob/main/mongodb.svg"></code>
 <code><img height="35" src="https://github.com/kaziragib18/kaziragib18/blob/main/express-109.svg"></code>
