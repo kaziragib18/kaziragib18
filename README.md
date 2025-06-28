@@ -4,7 +4,7 @@
 <p>
 <em>
     I'm graduated from <a href="http://www.northsouth.edu/"> <b>North South University</b>, Dhaka(Bangladesh)</a>. <br> 
-       Currently working as a JavaScript developer in a reputed software company in Dhaka(Bangladesh)</a>. <br> 
+       Currently working as a JavaScript developer in a reputed software company for the past 4 years in Dhaka(Bangladesh)</a>. <br> 
     I'm budding <b>Software Developer</b> who is passionate about web development, Software testing, design & human-computer interaction<img src="https://github.com/kaziragib18/Profile-Kaziragib18/blob/main/Developer.gif" width="30px"> Looking to <b>broaden my horizon</b> in the field of technologies. 💻
   </em>  
 </p>
