@@ -13,7 +13,7 @@
 ---
 
 ##  Statement of Interest  
-> “ I architect systems at the intersection of **modern JavaScript frameworks**, **cloud-native DevOps practices**, and **robust automation testing**. I thrive on building **scalable, secure, and performant** solutions using **MERN stack** + **DevOps tooling**. ”
+> “ I architect systems at the intersection of **modern JavaScript frameworks**, **cloud-native DevOps practices**. I thrive on building **scalable, secure, and performant** solutions using **MERN stack** + **DevOps tooling**. ”
 
 ---
 
@@ -87,3 +87,4 @@
 ---
 
 ⭐ *Thanks for stopping by! Feel free to explore my repos or send a hello!*
+
