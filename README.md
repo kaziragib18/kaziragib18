@@ -6,7 +6,7 @@
 ---
 
 🎓 **Educated** at [North South University](http://www.northsouth.edu/), Dhaka, Bangladesh  
-💼 **Professional** JavaScript Developer with **4+ years** of experience  
+💼 **Professional** JavaScript Developer with **3+ years** of experience  
 🚀 Passionate about scalable full-stack development, DevOps pipelines, and automation testing  
 🌍 Always eager to collaborate and contribute to impactful projects
 
@@ -87,4 +87,5 @@
 ---
 
 ⭐ *Thanks for stopping by! Feel free to explore my repos or send a hello!*
+
 
