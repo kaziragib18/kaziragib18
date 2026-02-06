@@ -61,12 +61,12 @@
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaziragib18&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziragib18&layout=compact&theme=radical" height="180" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaziragib18&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziragib18&layout=compact&theme=radical&cache_seconds=1800" />
+</div>
 
 ---
 
@@ -87,5 +87,6 @@
 ---
 
 ⭐ *Thanks for stopping by! Feel free to explore my repos or send a hello!*
+
 
 
