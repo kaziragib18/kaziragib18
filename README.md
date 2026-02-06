@@ -61,15 +61,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaziragib18&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziragib18&layout=compact&theme=radical&cache_seconds=1800" />
-</div>
-
----
-
 ##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kazi-md-ragib-580a5219b/)
@@ -87,6 +78,7 @@
 ---
 
 ⭐ *Thanks for stopping by! Feel free to explore my repos or send a hello!*
+
 
 
 
